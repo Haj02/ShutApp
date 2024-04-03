@@ -2,4 +2,6 @@
 
 ShutApp is a simple productivity tool that blocks any app of your choosing for a specified amount of time.
 
-For now the block time must be set in the code.
+For now the block time and app must be set in the code.
+
+Future versions will have more UI elements for ease of use.
