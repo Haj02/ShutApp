@@ -9,4 +9,5 @@ How to use:
 4. Click the start blocking button
 
 After you start blocking the window can't be modified or closed.
+
 If you want the program to end you must close the terminal.
