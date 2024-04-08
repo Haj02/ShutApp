@@ -7,3 +7,6 @@ How to use:
 2. Input the program you want to block in the terminal
 3. Use the add and subtract buttons to set the amount of time you want to block (you can see what time you set it as in the terminal)
 4. Click the start blocking button
+
+After you start blocking the window can't be modified or closed.
+If you want the program to end you must close the terminal.
